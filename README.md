@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on books awesome<br>🤝 I’m looking for help with Data structures<br>🌱 I’m currently learning Javascript and APIs<br>💬 Ask me about Front End development<br>⚡ Fun fact I don't like coffee
+🔭 I’m currently Learning Javascript modules and API<br>🤝 I’m looking for help with Data structures<br>💬 Ask me about Front End development<br>⚡ Fun fact I don't like coffee
 
 
 ## 🌐 Socials:
