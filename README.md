@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Learning Javascript modules and API<br>🤝 I’m looking for help with Data structures<br>💬 Ask me about Front End development<br>⚡ Fun fact I don't like coffee
+🔭 I’m currently Learning React and Redux<br>🤝 I’m looking for help with Data structures<br>💬 Ask me about Front End development<br>⚡ Fun fact I don't like coffee
 
 
 ## 🌐 Socials:
