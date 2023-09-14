@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Learning React and Redux<br>🤝 I’m looking for help with Testing<br>💬 Ask me about Front End development<br>⚡ Fun fact I don't like coffee
+🔭 I’m currently Learning ROR<br>🤝 I’m looking for some opportunities<br>💬 Ask me about Front End development<br>⚡ Fun fact I don't like coffee
 
 
 ## 🌐 Socials:
