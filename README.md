@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Chat Messaging using Ruby On Rails and React...<br>🤝 I’m looking for help with JWT.<br>🌱 I’m currently learning Python.<br>💬 Ask me about Full-Stack development.<br>⚡ Fun fact : I don't like coffee.
+🔭 I’m currently working on Chat Messaging using Ruby On Rails and React...<br>🤝 I’m looking for help with JWT.<br>🌱 I’m currently learning Python.<br>💬 Ask me about Full-Stack development.<br>⚡ Fun fact I don't like coffee.
 
 
 ## 🌐 Socials:
