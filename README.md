@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Doctorino where you can book an appointment with a doctor using Ruby On Rails and React...<br>🌱 I’m currently learning Python.<br>💬 Ask me about Full-Stack development.<br>⚡ Fun fact I don't like coffee.
+🔭 I’m currently working on Doctorino where you can book an appointment with a doctor using Ruby On Rails and React...<br>🌱 I’m currently learning Angular.<br>💬 Ask me about Full-Stack development.<br>⚡ Fun fact I don't like coffee.
 
 
 ## 🌐 Socials:
